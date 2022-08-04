@@ -1,0 +1,33 @@
+#container{
+    width: 500px;
+    text-align: justify;
+    position: fixed;
+    left:30%;
+    margin-top: 10%;
+    background-color: #2B4865;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    color: whitesmoke;
+}
+#head{
+    float: left;
+}
+#auth{
+    text-align: right;
+}
+#button{
+    position:fixed;
+    top: 70%;
+    left: 47%; 
+    margin: 0;
+    padding: 0%;
+    max-width: fit-content;
+}
+#btn:hover{
+    box-shadow: 1px 1px 5px blue;
+    
+}
+
+
+
